@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Bo 👋
 
-<!--
-**BioFanat/BioFanat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer Intern @ Tamarind Bio | Researcher
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working as a **Software Engineer Intern at Tamarind Bio**
+- 🔬 Active researcher in the **Zhang CBB Lab** at Duke and **Gordan Lab** at UMass
+- 💡 Passionate about building **scalable, high-throughput models** and **data infrastructure/pipelines**
+- 🧬 Focused on applications in **genomics** and **finance**
+- 📫 Reach me at: bo.chi@duke.edu
+
+---
+
