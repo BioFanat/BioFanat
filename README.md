@@ -1,10 +1,10 @@
 # Hi, I'm Bo 👋
 
-### Software Engineer Intern @ Tamarind Bio | Researcher
+### Prev @ Tamarind Bio | Computational Biology Researcher
 
 ## About Me
 
-- 🔭 Currently working as a **Software Engineer Intern at Tamarind Bio (YC W24)**
+- 🔭 Worked as a **Software Engineer Intern at Tamarind Bio (YC W24)** over Summer 2025
 - 🔬 Active researcher in the **Zhang CBB Lab** at Duke and **Gordan Lab** at UMass
 - 💡 Passionate about building **scalable, high-throughput models** and **data infrastructure/pipelines**
 - 🧬 Focused on applications in **genomics** and **finance**
